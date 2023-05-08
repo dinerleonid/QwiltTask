@@ -1,0 +1,10 @@
+{
+  "cache_a": {
+    "state": "online",
+    "url": "\"https://cache-a.region-x.amazonaws.com\""
+  },
+   "cache_b": {
+    "state": "offline",
+    "url": "\"https://cache-b.region-y.amazonaws.com\""
+  }
+}
